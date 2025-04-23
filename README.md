@@ -1,11 +1,12 @@
-I am Steve Odira
-👀 I’m interested in learning new projects
-🌱 I’m currently learning 
-💞️ I’m looking to collaborate on different projects
-You can reach me by email odira.steven@gmail.com
-Pronouns: He/Him
+👋 Hi, I’m Steve — but my friends call me Vostih.
+At work, I go by many names: Cyberninja, Mapninja, Techninja — pick your fighter. They all reflect my passion for blending tech, maps, and code to make the world smarter.
 
-<!---
-steveodira/steveodira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I’m a full-stack developer, fluent in Python and Java on the backend, and comfortable crafting clean, interactive interfaces with HTML, CSS, and JavaScript.
+
+🧠 I also dive deep into data analysis and GIS (Geographic Information Systems) — turning messy data into stories, and satellite images into solutions.
+
+🚀 Curious what I’ve built?
+Check out one of my projects:
+👉 Kijiji Digital
+
+Let’s build something that matters. 🌍✨
